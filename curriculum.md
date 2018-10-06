@@ -20,7 +20,7 @@ Below you will find my Curriculum, also available in [PDF format](https://raw.gi
 
 2017 / 9 months / Paris, France
 **FREELANCER**
-Clients: Simplon.co, Isograd, Corwork.id and Flit
+Clients: Simplon.co, Isograd, Corwork.id and FlitDesk
 
 2016 / 9 months / Montreuil, France
 **TRAINER [Simplon.co](http://simplon.co/)**
