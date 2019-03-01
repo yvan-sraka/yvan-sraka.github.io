@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# Yvan SRAKA <[yvan@sraka.pw](mailto:yvan@sraka.pw)>
+# Yvan SRAKA &lt;<span style="unicode-bidi:bidi-override; direction:rtl;">zyx.akars@navy</span>&gt;
 
 Public keys: [GPG (EF691DE6)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20SRAKA%20(EF691DE6)%20%E2%80%93%20Public.asc) - [SSH (yvan@X230)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20SRAKA%20(yvan%40X230)%20%E2%80%93%20id_rsa.pub)
 
@@ -15,6 +15,10 @@ This is my personal homepage, you can browse through my:
 
 * [Curriculum Vitae](/curriculum)
 * [Softwares repositories](/softwares)
+
+I'm currently working at [ENS](https://www.ens.fr/) Ulm in [INRIA](https://www.inria.fr/en/) Team [Antique](https://team.inria.fr/antique/) "Abstraction" under the guidance of [Jérôme FERET](https://www.di.ens.fr/~feret/) on a topic of static analysis by abstract interpretation: **Kappa[1] site-graph patterns equations resolution**
+
+[1] [Kappa](https://kappalanguage.org/) is a rule-based language for modeling molecular biology systems
 
 ## Articles
 
