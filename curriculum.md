@@ -51,7 +51,7 @@ control by conservation
 University cursus
 -----------------
 
-2014..2018 Paris, **Pierre and Marie Curie University (Paris VI),**
+2014..2019 Paris, **Pierre and Marie Curie University (Paris VI),**
 Master of Computer Science specialization in Bioinformatics and Modeling
 
 2013..2014 Kremlin-Bicêtre, **EPITA,** Computer Engineer by
@@ -72,7 +72,7 @@ Technical skills
 
 -   **System and Software programing:** C++ 14 ••••• -- C 18 •••• -- Rust 2018 •••• -- C\# .NET 7 ••• -- Java 8 ••• -- Go ••
 -   **Functional programming:** Racket 7 •••• -- Haskell 2010 ••• -- OCaml 4 •••
--   **Computer Graphics and Games development**: GLSL Shadering •••• -- OpenGL 4 ••• -- Unity 3D 2018 •••
+-   **Computer Graphics and Games development**: GLSL Shadering •••• -- OpenGL 4 ••• -- Unity 3D 2019 •••
 -   **Computer Sciences:** Algorithms & Data structures ••••• -- Langage & Types theory •••• -- Linear algebra •••
 -   **Machine Learning:** Markovian, Bayesian and Convex methods •••• - Keras with Tensorflow backend •••
 -   **Scripting:** Python 3 ••••• -- PHP 7 •••• -- Bourne shell (zsh) ••• -- Ruby 2 ••
@@ -80,7 +80,7 @@ Technical skills
 -   **Web "back-end":** Django •••• -- Node.js •••• -- Cordova ••• -- Sinatra •••
 -   **HTTP Servers & Databases:** Nginx •••• -- Apache ••• -- [Postgre, My]SQL ••• -- MongoDB ••• -- GraphQL •• -- Redis ••
 -   **Mobile development:** Android (Kotlin) ••• -- iOS (Swift) ••• -- HP Palm WebOS (✝) •••• -- Windows Phone (✝) •••
--   **GUI:** Qt 5 •••• -- SDL ••• -- PyGame ••• -- GTK 3 ••
+-   **GUI:** Qt 5 •••• -- SDL 2 ••• -- PyGame ••• -- GTK 3 ••
 -   **OS:** GNU Linux ••••• -- BSD/macOS ••• -- Microsoft DOS/Windows •••
 -   **System Administration:** Continuous Integration ••••• -- Virtualization & Containers (Docker) •••
 -   **Tooling:** Git ••••• -- (La)TeX ••••• -- (Neo)Vim ••• -- (Spac)Emacs •• -- Common CLI UNIX tools
@@ -97,7 +97,7 @@ Notable awards
 
 -   2015 **Finalist of Matalab "Mission on Mars Robot Challenge",**
     Artificial Intelligence (AI) competition
--   2013..2017 **Qualified in Google "Code Jam",** Algorithmic
+-   2013..2019 **Qualified in Google "Code Jam",** Algorithmic
     international competition
 -   2012..2013 **Finalist of Prologin,** Algorithmic national
     competition
