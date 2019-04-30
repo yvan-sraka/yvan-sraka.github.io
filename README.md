@@ -16,13 +16,13 @@ This is my personal homepage, you can browse through my:
 * [Curriculum Vitae](/curriculum)
 * [Softwares repositories](/softwares)
 
-I'm currently working at [ENS](https://www.ens.fr/) Ulm in [INRIA](https://www.inria.fr/en/) Team [Antique](https://team.inria.fr/antique/) "Abstraction" under the guidance of [Jérôme FERET](https://www.di.ens.fr/~feret/) on a topic of static analysis by abstract interpretation: **Kappa[1] site-graph patterns equations resolution**
+I'm currently working at [ENS](https://www.ens.fr/) Ulm in [INRIA](https://www.inria.fr/en/) Team [Antique](https://team.inria.fr/antique/) "Abstraction" under the supervision of [Jérôme FERET](https://www.di.ens.fr/~feret/) on a topic of static analysis by abstract interpretation: **Kappa[1] site-graph patterns equations resolution**
 
 [1] [Kappa](https://kappalanguage.org/) is a rule-based language for modeling molecular biology systems
 
 ## Articles
 
-I try to weekly write about technical and artistic experiments, ideas or tricks and share my personal opinions on various topics:
+I try to monthly write about technical and artistic experiments, ideas or tricks and share my personal opinions on various topics:
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }}){% endfor %}
