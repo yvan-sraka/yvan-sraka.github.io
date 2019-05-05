@@ -3,9 +3,9 @@ layout: default
 permalink: /
 ---
 
-# Yvan SRAKA &lt;<span style="unicode-bidi:bidi-override; direction:rtl;">zyx.akars@navy</span>&gt;
+# Yvan SRAKA &lt;<span style="unicode-bidi:bidi-override; direction:rtl;">moc.em@akars.navy</span>&gt;
 
-Public keys: [GPG (EF691DE6)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20SRAKA%20(EF691DE6)%20%E2%80%93%20Public.asc) - [SSH (yvan@X230)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20SRAKA%20(yvan%40X230)%20%E2%80%93%20id_rsa.pub)
+Public keys: [GPG (EF691DE6)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20Sraka%20(3761409A)%20–%20Public.asc) - [SSH (yvan@X230)](https://raw.githubusercontent.com/yvan-sraka/yvan-sraka.github.io/master/Yvan%20SRAKA%20(yvan%40X230)%20%E2%80%93%20id_rsa.pub)
 
 [GitHub](https://github.com/yvan-sraka) / [StackOverflow](https://stackoverflow.com/story/yvan.sraka) / [Twitter](https://twitter.com/yvansraka) / [LinkedIn](https://www.linkedin.com/in/yvansraka/)
 
