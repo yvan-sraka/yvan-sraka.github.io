@@ -29,4 +29,4 @@ I try to monthly write about technical and artistic experiments, ideas or tricks
 
 ## About this page
 
-This page is written in [Markdown](https://daringfireball.net/projects/markdown/), hosted by [GitHub Page](https://pages.github.com/), automatically converted to HTML by [Jekyll](https://jekyllrb.com) and looks like the authentic Markdown through [a fork of Hack CSS](https://github.com/yvan-sraka/hack), you can find the sources [here](https://github.com/yvan-sraka/yvan-sraka.github.io).
+This page is written in [Markdown](https://daringfireball.net/projects/markdown/), hosted by [GitHub Page](https://pages.github.com/), automatically converted to HTML by [Jekyll](https://jekyllrb.com) and looks like the authentic Markdown through [a fork of Hack CSS](https://github.com/yvan-sraka/hack), you can find the sources [here](https://github.com/yvan-sraka/yvan.sraka.xyz).
