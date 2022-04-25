@@ -18,8 +18,6 @@ This is my personal homepage, you can browse through my:
 
 I currently teach DevOps with [Nix](https://nixos.org) and Systems and Networks programming with [Rust](https://www.rust-lang.org) for Master student of [ESGI](https://www.esgi.fr) through the working group [newtype()](https://newtype.fr) of the coop [P//](https://portparallele.com).
 
-I plan to start this year a thesis working upstream on the [Haskell](https://www.haskell.org) compiler, more details coming soon ...
-
 ## Posts
 
 I try to monthly write about technical and artistic experiments, ideas or tricks and share my personal opinions on various topics:
